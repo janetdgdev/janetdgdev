@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/jdg_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdg_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janetdgdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janetdgdev" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/jdgdev.bsky.social" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="jdgdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
