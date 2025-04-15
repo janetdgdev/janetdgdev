@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Janet</h1>
 <h3 align="center">I'm a full-stack software engineer at #100Devs</h3>
 
+- 🖥️ I specialize in the MERN stack and have experience in many different technologies.
+
 - 📫 You can reach me at: **janetdg.dev@gmail.com** or my socials
 
 - ⚡ I love **cute things and the horror genre**
